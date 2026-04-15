@@ -5,7 +5,7 @@ Biyomedikal Görüntü İşleme dersi projesi hakkında bilgi almak için üstte
 
 Projenizde kullanacağınız verisetlerini aşağıdaki websitelerinden indirebilirsiniz:
 
-www.mendeley.com
+www.data.mendeley.com
 
 www.zenodo.org
 
